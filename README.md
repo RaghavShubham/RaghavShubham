@@ -13,12 +13,6 @@
 
 <br />
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=RaghavShubham&count_private=true&show_icons=true&theme=graywhite">
-  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=RaghavShubham&count_private=true&show_icons=true&theme=graywhite" />
-</a>
-</div>
-
 
 
 
