@@ -1,6 +1,6 @@
-### Hello there
-## I'm Shubham Raghav
-- I am here because my computer's storage was running low
+### Hello, World!
+## I'm Shubham रaghav, #a digital nomad
+- I am here in search for food (for my thoughts) and shelter (under new inspirations)
 - That's it.
 <br />
 <br />
