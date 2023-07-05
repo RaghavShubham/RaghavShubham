@@ -17,11 +17,11 @@
   
 - 🔭 I’m currently working on **JavaScript, React, React Native, Nodejs, MongoDB, NextJS, Java**
 
-- 🌱 I’m currently learning **to tackle core concepts of JavaScript**
+- 🌱 I’m currently trying **to tackle core concepts of JavaScript**
   
 - 🎥 I post Frontend tutorials on [YouTube](https://www.youtube.com/@greyled)
 
-- 📝 I regularly write articles on [Substack](https://shubhamraghav.substack.com/)
+- 📝 I sometimes write articles on [Substack](https://shubhamraghav.substack.com/)
   
 - 🏠 Also We've a tech community called [The Grey Hub](https://discord.gg/F97vXT4V9k).
 
