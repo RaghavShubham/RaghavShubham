@@ -23,7 +23,7 @@
 
 - 📝 I sometimes write articles on [Substack](https://shubhamraghav.substack.com/)
   
-- 🏠 Also We've a tech community called [The Grey Hub](https://discord.gg/F97vXT4V9k).
+- 🏠 Also I have a tech community called [The Grey Hub](https://discord.gg/F97vXT4V9k).
 
 - 💬 Ask me about **JS, react, react-native, nodejs**
 
