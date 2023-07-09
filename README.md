@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **JS, react, react-native, nodejs**
 
-- 📫 Feel free to reach out to me at **shubham3raghav@gmail.com**
+- 📫 Feel free to reach out to me here: **shubham3raghav@gmail.com**
 
 <!--Intro end-->
 
