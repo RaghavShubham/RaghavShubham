@@ -59,12 +59,6 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,react,redux,ts,js,nextjs,nodejs,express,figma,c,cpp,github,html,java,mongodb,mysql&perline=14" />
-  </a>
-</p>
 
 
 <!-- Connect with me -->
