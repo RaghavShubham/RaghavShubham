@@ -36,17 +36,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td border="none" width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RaghavShubham&show_icons=true&theme=dark#gh-dark-mode-only" />
-</td>
-
-<td border="none" width="50%" align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavShubham&theme=dark&hide_border=false" /> 
-  </td>
-</tr>
-</table>
 <!--- stats (end) -->
 
 </p>        
